@@ -2,7 +2,7 @@
 
 The top of open source: a weekly leaderboard where fans chip in for the open-source projects they use.
 
-- Back any listed project with $5 or more. The biggest total at Monday 00:00 UTC takes #1, then the board resets.
+- Back any listed project with any amount. The biggest total at Monday 00:00 UTC takes #1, then the board resets.
 - 90% of every backing goes to the project's maintainers, after payment fees. 10% keeps fundtop running.
 - Every payout is public.
 
